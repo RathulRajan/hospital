@@ -1,0 +1,11 @@
+.doc-signup-form {
+  width: 800px;
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+  margin: 100px auto;
+  border: 2px solid rgb(38, 71, 71);
+  padding: 30px;
+  border-radius: 10px;
+  box-shadow: 2px 2px 10px 10px rgb(15, 35, 35);
+}

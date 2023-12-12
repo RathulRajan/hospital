@@ -1,0 +1,26 @@
+body {
+  background-color: #cdf5fd;
+}
+.home .patient-navbar .name {
+  color: #063147;
+}
+
+.patient-navbar {
+  background-color: #89cff3;
+  height: 100px;
+  display: flex;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+.list-departments {
+  padding: 50px;
+  display: flex;
+  gap: 20px;
+  justify-content: space-around;
+  flex-wrap: wrap;
+  box-shadow: 10px 10px 0 0 black;
+}
+.list-departments .ant-card:hover {
+  transform: scale(1.05); /* Scale up the card on hover */
+  transition: transform 0.3s ease; /* Add a smooth transition effect */
+  background-color: #f0f0f0; /* Change background color on hover */
+}

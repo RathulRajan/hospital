@@ -1,0 +1,19 @@
+.list-pharmacy {
+  margin-left: 40px 70px;
+}
+
+.table-div {
+  margin-top: 50px;
+}
+.table-img {
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+  border: 1px solid black;
+}
+.add-pharmacy {
+  margin-top: 30px;
+  margin-right: 20px;
+  display: flex;
+  justify-content: end;
+}

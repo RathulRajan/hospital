@@ -1,0 +1,31 @@
+.post-pharmacy {
+  margin: 30px;
+}
+
+.pharmacy-form {
+  display: flex;
+  gap: 30px;
+  margin-top: 30px;
+}
+.pharmacy-form-left {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  width: 50%;
+}
+.pharmacy-form-right {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  width: 50%;
+}
+.pharmacy-input {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  justify-content: start;
+}
+.post-pharmacy-btn {
+  margin-top: 45px;
+  width: 150px;
+}

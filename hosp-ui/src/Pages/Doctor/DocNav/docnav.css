@@ -1,0 +1,9 @@
+.navbar {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  border: 1px solid bisque;
+  height: 50px;
+  background-color: antiquewhite;
+  cursor: pointer;
+}
